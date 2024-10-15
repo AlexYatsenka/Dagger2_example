@@ -11,8 +11,8 @@ import com.alexyatsenka.dagger2.di.map.Analytics
 import com.alexyatsenka.dagger2.models.Analytic
 import com.alexyatsenka.dagger2.models.FacebookAnalytic
 import com.alexyatsenka.dagger2.models.GoogleAnalytic
-import com.alexyatsenka.dagger2.di.map.GoogleAnalytic as GoogleQualifier
-import com.alexyatsenka.dagger2.di.map.FacebookAnalytic as FacebookQualifier
+import com.alexyatsenka.dagger2.di.map.GoogleAnalyticQualifier as GoogleQualifier
+import com.alexyatsenka.dagger2.di.map.FacebookAnalyticQualifier as FacebookQualifier
 import javax.inject.Inject
 import javax.inject.Named
 

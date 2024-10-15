@@ -4,8 +4,8 @@ import javax.inject.Qualifier
 
 @Qualifier
 @Retention(AnnotationRetention.RUNTIME)
-annotation class GoogleAnalytic
+annotation class GoogleAnalyticQualifier
 
 @Qualifier
 @Retention(AnnotationRetention.RUNTIME)
-annotation class FacebookAnalytic
+annotation class FacebookAnalyticQualifier

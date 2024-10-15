@@ -7,7 +7,7 @@ import dagger.Provides
 import dagger.Reusable
 
 @Module
-class ViewModelModule {
+class ProvidesModule {
 
     @Provides
     @Reusable
